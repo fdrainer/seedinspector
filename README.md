@@ -1,115 +1,47 @@
-SEED INSPECTOR
-Multi-Chain Mnemonic Intelligence
-
 <p align="center">
-  <img src="https://github.com/fdrainer/seedinspector/blob/main/seed-inspector-matrix.png" width="600">
+  <img src="seed-inspector-matrix.png" alt="Seed Inspector – Multi-Chain Mnemonic & Key Intelligence" width="100%" />
 </p>
 
-# 👑 SEED INSPECTOR
-## Multi-Chain Mnemonic & Key Scanner
-
-> **This is not a wallet checker.**  
-> **This is a wallet discovery engine.**
+<h1 align="center">👑 Seed Inspector</h1>
 
 <p align="center">
-  <a href="https://t.me/SeedInspector_bot"><strong>▶ EXECUTE SCAN</strong></a>
+  <b>Multi-Chain Mnemonic & Key Intelligence Engine</b><br/>
+  Seed phrase & private key based wallet discovery across 50+ blockchains.
 </p>
 
 ---
 
-## ⚠️ Read this first
+## What is Seed Inspector?
 
-Most tools scan **addresses**.  
-Seed Inspector scans **origins**.
+**Seed Inspector** is a multi-chain wallet discovery engine that derives and analyzes wallets  
+from **seed phrases (mnemonics)** and **private keys**.
 
-If you don’t know the difference,  
-this tool is not for you.
+Unlike traditional wallet scanners that rely on known addresses,  
+Seed Inspector operates at the **origin level** — the mnemonic itself.
 
----
-
-## 🧠 What Seed Inspector actually does
-
-Give it **one thing**:
-- a **12/24-word mnemonic**
-- or a **raw private key**
-
-Seed Inspector will:
-
-- Derive **every possible HD wallet**
-- Sweep **50+ blockchain networks**
-- Aggregate **tokens, NFTs, dust, leftovers**
-- Calculate **real USD value**
-- Show you **what actually exists**
-
-Not what you *remember*.  
-Not what you *think*.  
-
-What exists.
+This allows deep inspection across multiple chains from a single source.
 
 ---
 
-## 👁️ This is NOT another balance checker
+## Core Capabilities
 
-Other tools:
-- One chain
-- One address
-- One balance
-- One lie at a time
+- Mnemonic-based HD wallet derivation  
+- Private key scanning  
+- Multi-chain asset discovery  
+- Real balance aggregation (USD valuation)  
+- Cross-network visibility from a single input  
 
-Seed Inspector:
-- Multi-path derivation
-- Parallel chain scanning
-- Full asset surface
-- Zero assumptions
-
-This is **wallet intelligence**.
+Supported networks include **Ethereum, Bitcoin, Solana, Tron**, and **50+ chains**.
 
 ---
 
-## 🌐 Chain coverage
+## Important Note
 
-EVM? Covered.  
-Non-EVM? Covered.  
-Obscure L2 you forgot existed? Probably covered.
-
-**50+ networks**, including:
-
-Ethereum · BSC · Polygon · Arbitrum · Optimism · Base · Avalanche · zkSync · Blast · Gnosis · +40 more  
-Bitcoin · Solana · Tron · Dogecoin · Litecoin
-
----
-
-## 🕶️ Who uses Seed Inspector
-
-- People who lost track of wallets
-- People who audit wallets
-- People who research chains
-- People who don’t trust “probably empty”
-
-This is not a toy.  
-This is not for beginners.
-
----
-
-## 🧬 Philosophy
+⚠️ **This is NOT a wallet checker.**  
+Seed Inspector is a **wallet discovery & analysis engine**.
 
 Addresses are symptoms.  
-Seeds are the disease.
-
-Inspect the source.
+Seeds are the source.
 
 ---
 
-<p align="center">
-  <strong>Seed Inspector</strong><br>
-  <em>Multi-Chain Mnemonic & Key Intelligence</em>
-</p>
-
-<p align="center">
-  👑 Built for people who want the full picture.
-</p>
-
----
-
-**Tags:**  
-`seed-phrase` · `mnemonic` · `private-key` · `wallet-scanner` · `multi-chain` · `crypto-intelligence`
