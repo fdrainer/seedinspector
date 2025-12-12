@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/seed-inspector-matrix.png" width="600">
+  <img src="https://github.com/fdrainer/seedinspector/blob/main/seed-inspector-matrix.png" width="600">
 </p>
 
 # 👑 SEED INSPECTOR
