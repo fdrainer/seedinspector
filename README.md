@@ -35,6 +35,71 @@ Supported networks include **Ethereum, Bitcoin, Solana, Tron**, and **50+ chains
 
 ---
 
+## Screenshots
+
+Below are real interface previews of **Seed Inspector** running in production.
+
+These screenshots demonstrate the core flow of the wallet discovery engine —  
+from mnemonic input to multi-chain asset aggregation.
+
+---
+
+### Start Screen
+
+<p align="center">
+  <img src="screenshots/start.png" alt="Seed Inspector start screen – mnemonic & private key scanner" width="90%" />
+</p>
+
+The entry point of Seed Inspector.  
+Users are immediately informed that this is **not a wallet checker**, but a **wallet discovery engine** operating on seed phrases and private keys.
+
+---
+
+### Wallet Input
+
+<p align="center">
+  <img src="screenshots/input.png" alt="Seed Inspector input screen – seed phrase and private key" width="90%" />
+</p>
+
+The input interface accepts:
+- 12-word mnemonic  
+- 24-word mnemonic  
+- Raw private key  
+
+No addresses are required.
+
+---
+
+### Scan in Progress
+
+<p align="center">
+  <img src="screenshots/scanning.png" alt="Seed Inspector scanning wallets across multiple blockchains" width="90%" />
+</p>
+
+During execution, the engine:
+- Derives HD wallets
+- Sweeps 50+ blockchain networks
+- Aggregates balances and tokens
+
+---
+
+### Scan Results
+
+<p align="center">
+  <img src="screenshots/result.png" alt="Seed Inspector scan results – multi-chain wallet balances" width="90%" />
+</p>
+
+The final result screen displays:
+- Detected wallets
+- Assets across chains
+- Aggregated USD value
+
+All data is derived directly from the seed or key origin.
+
+---
+
+
+
 ## Important Note
 
 ⚠️ **This is NOT a wallet checker.**  
