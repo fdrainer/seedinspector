@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="seed-inspector-matrix.png" alt="Seed Inspector – Multi-Chain Mnemonic & Key Intelligence" width="100%" />
+  <img src="seed-inspector-matrix.png" alt="Seed Inspector – Multi-Chain Mnemonic & Key Intelligence" width="95%" />
 </p>
 
 <h1 align="center">👑 Seed Inspector</h1>
@@ -12,6 +12,7 @@
 ---
 
 ## What is Seed Inspector?
+> A research-oriented engine focused on mnemonic-origin wallet analysis.
 
 **Seed Inspector** is a multi-chain wallet discovery engine that derives and analyzes wallets  
 from **seed phrases (mnemonics)** and **private keys**.
@@ -37,7 +38,7 @@ Supported networks include **Ethereum, Bitcoin, Solana, Tron**, and **50+ chains
 
 ## Screenshots
 
-Below are real interface previews of **Seed Inspector** running in production.
+Below are real interface previews of **Seed Inspector** in operation.
 
 These screenshots demonstrate the core flow of the wallet discovery engine —  
 from mnemonic input to multi-chain asset aggregation.
@@ -47,7 +48,7 @@ from mnemonic input to multi-chain asset aggregation.
 ### Start Screen
 
 <p align="center">
-  <img src="https://github.com/fdrainer/seedinspector/blob/main/screenshots/start.png" alt="Seed Inspector start screen – mnemonic & private key scanner" width="90%" />
+  <img src="screenshots/start.png" alt="Seed Inspector start screen – mnemonic & private key scanner" width="90%" />
 </p>
 
 The entry point of Seed Inspector.  
@@ -58,7 +59,7 @@ Users are immediately informed that this is **not a wallet checker**, but a **wa
 ### Wallet Input
 
 <p align="center">
-  <img src="https://github.com/fdrainer/seedinspector/blob/main/screenshots/input.png" alt="Seed Inspector input screen – seed phrase and private key" width="90%" />
+  <img src="screenshoots/input.png" alt="Seed Inspector input screen – seed phrase and private key" width="90%" />
 </p>
 
 The input interface accepts:
@@ -73,7 +74,7 @@ No addresses are required.
 ### Scan in Progress
 
 <p align="center">
-  <img src="https://github.com/fdrainer/seedinspector/blob/main/screenshots/scanning.png" alt="Seed Inspector scanning wallets across multiple blockchains" width="90%" />
+  <img src="screenshoots/scanning.png" alt="Seed Inspector scanning wallets across multiple blockchains" width="90%" />
 </p>
 
 During execution, the engine:
@@ -86,7 +87,7 @@ During execution, the engine:
 ### Scan Results
 
 <p align="center">
-  <img src="https://github.com/fdrainer/seedinspector/blob/main/screenshots/result.png" alt="Seed Inspector scan results – multi-chain wallet balances" width="90%" />
+  <img src="screenshots/result.png" alt="Seed Inspector scan results – multi-chain wallet balances" width="90%" />
 </p>
 
 The final result screen displays:
